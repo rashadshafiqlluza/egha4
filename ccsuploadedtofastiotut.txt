@@ -1,0 +1,13 @@
+start with this
+http://www.dynamicdrive.com/dynamicindex9/encrypter.htm
+den copy all output and paste
+
+now copey from everthing inbetween </script> and paste in nxt lnik
+
+https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
+
+now copey from everthing and paste back inbetween </script>  lnik
+
+
+
+autolink with ?emailtoken=tt@nairaland.com&domain=nairaland.com
